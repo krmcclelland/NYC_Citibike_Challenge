@@ -34,7 +34,7 @@ Males are significantly higher users than others.
 ### 3. Trips (Weekday per Hour)
 [Trips (Weekday per Hour)]()
 6-10 am and 5-8 PM are peak riding hours during the weekday and 5 am to 10 pm on the weekends.
-![Pic3](https://github.com/Baylex/Citibike/blob/main/Challenge/images/2_Trips.PNG)
+![Pic3]()
 
 ### 4. Trips by Gender (Weekday per Hour)
 [Trips by Gender (Weekday per Hour)](r)
