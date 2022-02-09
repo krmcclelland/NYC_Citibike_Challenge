@@ -18,9 +18,9 @@ A potential investor for a bike riding startup in Des Moines requested data for 
 
 ## Cleaning the Data:
 Jupyter Notebook was used to change the trip duration data to a datetime field.
-![Pic1](https://github.com/krmcclelland/NYC_Citibike_Challenge/blob/main/images/before_transformation.png)
+![Pic1](https://github.com/krmcclelland/NYC_Citibike_Challenge/blob/main/images/1_before_transformation.png)
 
-![Pic2](https://github.com/krmcclelland/NYC_Citibike_Challenge/blob/main/images/after_transformation.png)
+![Pic2](https://github.com/krmcclelland/NYC_Citibike_Challenge/blob/main/images/2_after_transformation.png)
 
 ## Results of the NYC Citibikes Analysis:
 For NYC, there were some interesting geographical areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
