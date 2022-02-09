@@ -18,8 +18,10 @@ A potential investor for a bike riding startup in Des Moines requested data for 
 
 ## Cleaning the Data:
 Jupyter Notebook was used to change the trip duration data to a datetime field.
+Before:
 ![Pic1](https://github.com/krmcclelland/NYC_Citibike_Challenge/blob/main/images/1_before_transformation.png)
 
+After:
 ![Pic2](https://github.com/krmcclelland/NYC_Citibike_Challenge/blob/main/images/2_after_transformation.png)
 
 ## Results of the NYC Citibikes Analysis:
